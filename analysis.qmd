@@ -1,0 +1,13 @@
+---
+title: "Crypto Markets"
+author: "Hugo Lopes"
+format: html
+execute:
+  echo: false
+---
+
+```{r}
+#| message: false
+library(tidyverse)
+library(arrow)
+```
